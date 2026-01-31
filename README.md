@@ -3,7 +3,6 @@
 ## It's nice to have you here on my GitHub profile 
 ## 🧑‍🎓I'm currently a Software Engineering student at the Catholic University of Brasília
 ## 🧠I'm focusing on learning Python for Data Analysis
-## 📫My contacts: e-mail: [imanagiulia@gmail.com](:mailto:imanagiulia@gmail.com) | [LinkedIn] (https:www.linkedin.com/in/ana-giulia-aguiar-658734288)
 
 ## ➡️Right now I'm part of Caesb as an Intern, the company gave me my first opportunity to work in the I.T enviromment and is responsible for my passion for Data.
 
@@ -18,14 +17,15 @@
 
 ## Contacts:
 <div>
-<a href = "mailto:imanagiulia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ana-giulia-aguiar-658734288" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   <a href = "mailto:imanagiulia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ana-giulia-aguiar-658734288" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-         badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/imanagiulia">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanagiulia&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=imanagiuliai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align='center'>
+   <a href="https://github.com/imanagiulia">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanagiulia&layout=compact&langs_count=7&theme=dracula"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=imanagiulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </a>
 </div>
 
 
